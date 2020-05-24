@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+.input-container {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.input-element {
+  margin-left: 8px;
+}
+.input-element-function {
+  margin-left: 8px;
+  width: 460px;
+}
+.function-result {
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
