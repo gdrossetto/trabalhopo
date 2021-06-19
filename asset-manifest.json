@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/trabalhopo/static/css/main.956cfa3d.chunk.css",
-    "main.js": "/trabalhopo/static/js/main.d7bd7336.chunk.js",
-    "runtime-main.js": "/trabalhopo/static/js/runtime-main.a897ec18.js",
-    "static/js/2.be06efc0.chunk.js": "/trabalhopo/static/js/2.be06efc0.chunk.js",
-    "index.html": "/trabalhopo/index.html",
-    "precache-manifest.398d3b7ca7a13d65277debea635f14f5.js": "/trabalhopo/precache-manifest.398d3b7ca7a13d65277debea635f14f5.js",
-    "service-worker.js": "/trabalhopo/service-worker.js",
-    "static/js/2.be06efc0.chunk.js.LICENSE.txt": "/trabalhopo/static/js/2.be06efc0.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.956cfa3d.chunk.css",
+    "main.js": "./static/js/main.2c17cd56.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.e568c741.js",
+    "static/js/2.be06efc0.chunk.js": "./static/js/2.be06efc0.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.c8e4f25e718aa5205103b5030bbe2b9c.js": "./precache-manifest.c8e4f25e718aa5205103b5030bbe2b9c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.be06efc0.chunk.js.LICENSE.txt": "./static/js/2.be06efc0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a897ec18.js",
+    "static/js/runtime-main.e568c741.js",
     "static/js/2.be06efc0.chunk.js",
     "static/css/main.956cfa3d.chunk.css",
-    "static/js/main.d7bd7336.chunk.js"
+    "static/js/main.2c17cd56.chunk.js"
   ]
 }
